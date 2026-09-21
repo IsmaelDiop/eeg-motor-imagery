@@ -151,7 +151,7 @@ On Windows PowerShell, activate it with:
 Install the required packages:
 
 ```bash
-pip install mne numpy pandas matplotlib scikit-learn jupyter ipykernel
+pip install -r requirements.txt
 ```
 
 Open:
